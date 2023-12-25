@@ -1,4 +1,4 @@
-- 👋 Hi, I’m D1EG026
+- 👋 Hi there, I’m D1EG026
 - 👀 I’m interested in programming and music
 - 🌱 I’m currently learning C# and Unity
 
