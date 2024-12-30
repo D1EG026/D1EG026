@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m D1EG026
-- 🌍 I speak English and Spanish
+- 🌍 I speak Spanish and English
 - 👀 I’m interested in programming and music
 - 🌱 I’m currently learning C# and Unity
 
